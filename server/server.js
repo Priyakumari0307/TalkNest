@@ -60,6 +60,7 @@ app.use(cors());
 app.use("/api/server", (req, res) => res.send("Server is live"));
 app.use("/api/auth", userRouter);
 app.use("/api/message", messageRouter);
+app.get("/", (req, res) => res.send("TalkNest API is successfully running!"));
 
 //Connect to database
 await connectDB();
