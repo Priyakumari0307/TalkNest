@@ -1,5 +1,8 @@
 # TalkNest 
 
+Frontend - https://talk-nest-nine.vercel.app/
+Backend - https://talknest-i34e.onrender.com/
+
 TalkNest is a modern, real-time messaging platform engineered for seamless communication. It features a beautiful, responsive, and glassmorphic user interface paired with a robust real-time backend. 
 
 ## Key Features
@@ -50,3 +53,5 @@ npm install npm@latest -g
 
 ## Contributions
 Contributions, issues, and feature requests are welcome! Feel free to check out the issues page if you have any exciting ideas to expand TalkNest.
+
+
